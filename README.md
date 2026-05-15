@@ -24,7 +24,7 @@ Business growth, customers acquisition and retention have been the main goals to
 3. Customer segment- Analyzing and evaluating customer segmentation by comparing between customer acquisition and retention.
 4. Regional Comparison - An evaluation of sales and order by region.
 An interactive Tableau dashboard can be downloaded here
-The SQL queries regarding business analysis can be found here [here](https://github.com/handokosugiarto/SuperMart_Analysis_2014-2017/blob/479152eb7ff487aef7e304daf5ad866ecb5012b8/Analysis.sql
+The SQL queries regarding business analysis can be found [here](https://github.com/handokosugiarto/SuperMart_Analysis_2014-2017/blob/479152eb7ff487aef7e304daf5ad866ecb5012b8/Analysis.sql
 )
 
 An Interactive Tableau Dashboard can be downloaded here [here](https://public.tableau.com/app/profile/handoko.sugiarto/viz/SuperMartAnalysis_17769710077740/SuperMartAnalysis)
@@ -61,8 +61,8 @@ Data Cleaning SQL here [here](https://github.com/handokosugiarto/SuperMart_Analy
 ### Product Performance
 ![Product Performance](https://github.com/handokosugiarto/SuperMart_Analysis_2014-2017/blob/30cc455950b9c3d9bf8667e9f68285e41a288239/Subcategory%20metrics%20by%20year.png) 
 1. Phones have become the leading revenue contributor from 2014 to 2017, outperforming other sub categories in total Sales. Total Phones sales has reached $330K from 2014 to 2017, representing 14.4% from total sales revenue in 2014 to 2017. Phones sales have consistently generated positive sales across period indicating stable and sustained demand. Phones sales revenue has grown consistently with CAGR 11%, quantity has grown with CAGR 17%, profit has grown CAGR 3%, AOV has declined CAGR -8%. Based on those indicators, the demand of phones has increased significantly. While the demand of phones has grown, the sales revenue has grown behind the volume and AOV has decline, indicating price pressure or increased discounting. Profit growth is also behind the revenue and volume indicating that the growth in volume is not translating to profitability.
-![Phones](https://github.com/handokosugiarto/SuperMart_Analysis_2014-2017/blob/main/Tableaucharts/Top%2010%20Best.png)
-![Phones](https://github.com/handokosugiarto/SuperMart_Analysis_2014-2017/blob/54dd41907055e3748e350282a842679920c6fc6c/Tableaucharts/Top%2010%20Worst.png)
+![Phones](https://github.com/handokosugiarto/Private/blob/8dafb8820de66f41f0618674e7d7879cfb0332d2/Tableaucharts/Top%2010%20Best%20selling%20phone.png)
+![Phones](https://github.com/handokosugiarto/Private/blob/8dafb8820de66f41f0618674e7d7879cfb0332d2/Tableaucharts/Top%2010%20lowest%20selling%20phone.png)
  
 2. Chairs are the second leading product sub-category after phones. Chairs' revenue have reached $328K in total from 2014 to 2017, contributing 14.3% sales revenue to the total sales revenue. Chairs' sales revenue have grown with a CAGR 7%, quantity has grown with a CAGR 8%, profit has grown with CAGR 3%, contrarily AOV has declined with CAGR -6%. These numbers show that chairs sub category show strong growth in sales volume indicating increasing demand. However revenue growth is slighly behind the volume and AOV is declining suggesting pricing pressure or increased discounting. Additionally, profits growth remain moddest indicating that volume driven growth is not translating efficiently to profitability.
 ![Chairs](https://github.com/handokosugiarto/SuperMart_Analysis_2014-2017/blob/main/Tableaucharts/Top%2010%20%20Best%20Selling%20Chairs.png) ![Chairs](https://github.com/handokosugiarto/SuperMart_Analysis_2014-2017/blob/main/Tableaucharts/Top%2010%20Lowest%20Selling%20Chairs.png)

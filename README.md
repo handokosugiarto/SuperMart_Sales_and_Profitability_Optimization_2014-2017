@@ -10,7 +10,13 @@ Data Structure Overview [here](#data-structure-overview)
 
 Executive Summary [here](#executive-summary)
 
-Overview Findings [here](#overview-findings)
+  - Overview Findings [here](#overview-findings)
+
+Insights Deep Dive [here](#insights-deep-dive)
+  -  Sales Trends [here](#sales-trends)
+  -  Product Performance [here](#product-performance)
+  -  Customer Segment [here](#customer-segment)
+  -  Regional Comparison [here](#regional-comparison)
 
 Recommendation [here](#recommendation)
 

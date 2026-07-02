@@ -1,4 +1,4 @@
-# SuperMart_Sales_&-Profitability_Optimization_2014-2017
+# SuperMart_Sales_&_Profitability_Optimization_2014-2017
 
 ## Table of Content
 

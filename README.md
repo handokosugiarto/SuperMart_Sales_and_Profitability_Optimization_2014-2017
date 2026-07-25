@@ -31,7 +31,9 @@ Business growth, customers acquisition and retention have been the main goals to
 2. Product Performance - Analyzing sales and profits for each product sub-category, understanding the impact on sales and profit for its business growth.
 3. Customer segment- Analyzing and evaluating customer segmentation by comparing between customer acquisition and retention.
 4. Regional Comparison - An evaluation of sales and order by region.
-An interactive Tableau dashboard can be downloaded here
+   
+An interactive Tableau dashboard can be downloaded [here](https://public.tableau.com/app/profile/handoko.sugiarto/viz/SuperMartAnalysis_17769710077740/SuperMartAnalysis)
+
 The SQL queries regarding business analysis can be found [here](https://github.com/handokosugiarto/SuperMart_Analysis_2014-2017/blob/479152eb7ff487aef7e304daf5ad866ecb5012b8/Analysis.sql
 )
 
